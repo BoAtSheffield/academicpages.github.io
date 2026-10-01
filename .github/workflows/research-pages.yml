@@ -1,0 +1,66 @@
+name: Publish research website
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - research-site/**
+      - .github/workflows/research-pages.yml
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * 1'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: research-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: research-site
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: research-site/package-lock.json
+      - run: npm ci
+      - name: Refresh public research sources
+        if: github.event_name != 'push'
+        run: npm run refresh
+      - name: Save updated source snapshots
+        if: github.event_name != 'push'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if ! git diff --quiet -- data/profile.json; then
+            git add data/profile.json
+            git commit -m 'Update verified research profile snapshots'
+            git push origin HEAD:master
+          fi
+      - name: Configure GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Build website
+        run: npm run build
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: research-site/site
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
