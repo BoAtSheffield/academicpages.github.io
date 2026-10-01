@@ -1,0 +1,20 @@
+import { build } from 'esbuild';
+import { readFile, mkdir, cp, writeFile, rm } from 'node:fs/promises';
+import { pathToFileURL } from 'node:url';
+import path from 'node:path';
+
+const state = JSON.parse(await readFile('data/profile.json', 'utf8'));
+if (state.school?.name !== '马博' || !state.scholar?.papers?.length) throw new Error('Verified profile snapshot required');
+const siteUrl = (process.env.SITE_URL || 'http://localhost:4173').replace(/\/$/, '');
+const parsedUrl = new URL(siteUrl);
+if (!['http:', 'https:'].includes(parsedUrl.protocol)) throw new Error('Invalid site URL');
+await mkdir('.cache', { recursive: true });
+await build({ entryPoints: ['src/render.js'], outfile: '.cache/render.mjs', bundle: true, format: 'esm', platform: 'node', target: 'node24', loader: { '.css': 'text' }, logLevel: 'warning' });
+const { render } = await import(pathToFileURL(path.resolve('.cache/render.mjs')).href + '?build=' + Date.now());
+const html = render({ ...state, storageAvailable: true, initialSnapshot: false }, siteUrl);
+await rm('site', { recursive: true, force: true });
+await mkdir('site', { recursive: true });
+await cp('public', 'site', { recursive: true });
+await writeFile('site/index.html', html);
+await writeFile('site/.nojekyll', '');
+console.log(`Built GitHub Pages site with ${state.total} papers and ${state.news?.articles?.length || 0} news articles.`);

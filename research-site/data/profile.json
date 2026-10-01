@@ -1,0 +1,640 @@
+{
+  "school": {
+    "name": "马博",
+    "role": "副教授 · 硕士生导师",
+    "intro": [
+      "马博，男，1991年9月生，副教授，硕士生导师，英国谢菲尔德大学工学博士，东南大学工学学士。2021年8月加入浙江工商大学信息与电子工程学院（人工智能学院）任讲师，2024年12月升任副教授。",
+      "主讲《通信电路与系统》和《强化学习》本科课程。",
+      "主要研究方向为低空网络，无人机通信优化，算力网络（Computing Power Network）。",
+      "马博2021年博士毕业于全球Top100高校英国谢菲尔德大学（University of Sheffield)，导师为异构网优化领域千人专家Jie Zhang教授。马博作为负责人完成Innovate UK创新项目1项，参与欧盟地平线H2020项目3项，完成包括社交网络数据分析（项目名称：DAWN4IoE），无人机基站部署（项目名称：COSAFE），负载主动优化（项目名称：Is3DMIMO），及联通大数据分析（项目名称：PUBLIC）。通过长期参与项目，马博积累了HetNet优化，通信大数据分析，及车联网相关经验。以第一作者在IEEE Internet of Things Journal等期刊发表论文3篇，CCF-C类会议1篇，2020-2023Google Scholar被引总计97次。2020年马博于浙江大学航空航天学院访学15个月，进入杨波威教授团队学习无人机通信技术，通过一年的学习积累了无人机蜂窝网建模与优化经验。得益于这些积累，马博成为了通信顶级会议IEEE International Conference on Communications（ICC）无人机5G通信（UAV5G）研讨会技术程序委员会委员（TPC member，2022-2026），通信Top期刊IEEE Journal on Selected Areas in Communications（JSAC），IEEE Transactions on Vehicular Technology（TVT），及IEEE Internet of Things Journal（IoT-J）审稿人。同时，马博连续三年担任英国Ranplan通信公司（2018纳斯达克上市公司）兼职研发工程师，参与研发和运营的异构蜂窝网优化工具Ranplan Professional被华为、中国移动、英国沃达丰等国际知名通信企业采用。攻读博士期间，马博连续三年获得谢菲尔德大学电子电气学院学院奖学金。在此之前，马博2016年硕士毕业于全球Top150高校英国纽卡斯尔大学（Newcastle University），跟随天线与微波领域专家Stephen J Foti教授（IEEE Life Senior Member）学习，取得一等荣誉学位（First Class Honours），期间获得留学生奖学金。马博本科毕业于东南大学自动化学院，导师为无人系统控制技术专家，东南大学青年首席教授杨俊教授（IEEE/IET Fellow）。跟随杨俊教授学习期间，主要学习研究永磁同步电机控制技术。",
+      "马博于2021年10月加入李传煌教授领导的新一代智慧网络（ITL）技术团队。加入团队以来，主持国家自然科学青年基金项目1项，浙江省自然科学青年基金1项，参与重点项目1项、尖兵项目1项、领雁项目2项。作为核心成员参加“全省算力网络与智慧商务重点实验室”和“通信专业工程认证”工作。获评2025年度浙江工商大学优秀教师。在IEEE TSC/TVT/TCCN/IoT-J/电子学报/AWPL等高水平期刊第一作者发表论文13篇，同时担任IEEE TMC/TON/TWC/TVT/TCCN/TNSM等行业顶级期刊审稿人。培养毕业和在读研究生10名，取得研究生国家奖学金、学业一等奖学金、优秀共青团员、优秀研究生等称号。2026研究生毕业6人，其中4人获得优秀毕业生称号。毕业生就业于浙江大学滨江研究院、电信、杭州银行、浙江农商银行。2025年培养本科生获得“挑战杯”国家级金奖1项（工科首个大挑金奖），“互联网+”国家级金奖1项（国赛小组第一，学院首个），“挑战杯”“互联网+”浙江省金奖4项。本人热爱运动坚持锻炼，获得师生游泳比赛50m蛙泳全校第五名，曾担任信电教师篮球队队员。",
+      "马博可合作或独立指导博士研究生、硕士研究生、本科生开展科研工作。欢迎对算力网络，无人机网络和大模型等研究方向拥有饱满热情和好奇心的同学加入合作。主要培养内容包括发现研究兴趣、科研英文读写、广泛合作能力、演讲能力、乐观开朗精神。",
+      "电子邮箱：mabo@mail.zjgsu.edu.cn",
+      "李传煌教授主页：https://mypage.zjgsu.edu.cn/kyc/lch2/main.htm 请申请研究生的同学注意：李传煌教授现任科技部部长，主页归类部门在科技部，不会影响在信电学院招生，牵头ITL团队研究和管理工作，请放心联系chuanhuang_li@zjgsu.edu.cn。"
+    ],
+    "research": "主要研究方向为异构网（HetNet）优化，无人机（UAV）网络优化，算力网络。",
+    "email": "mabo@zjgsu.edu.cn",
+    "teaching": "主讲《通信电路与系统》和《强化学习》本科课程。",
+    "recruitment": "马博可合作或独立指导博士研究生、硕士研究生、本科生开展科研工作。欢迎对算力网络，无人机网络和大模型等研究方向拥有饱满热情和好奇心的同学加入合作。主要培养内容包括发现研究兴趣、科研英文读写、广泛合作能力、演讲能力、乐观开朗精神。",
+    "education": "本科毕业,20100901,20140601,自动化,东南大学,学士,自动化 硕士研究生,20150901,20161101,通信与信号处理,英国纽卡斯尔大学,硕士,通信与信号处理 博士研究生,20170205,20210501,通信工程,英国谢菲尔德大学,博士,通信工程",
+    "projects": [
+      "1. 浙江省自然科学基金重点项目，《模型化新型软件定义边缘算力网络业务智慧承载关键技术研究》，排名第三，2022",
+      "2. 浙江省自然科学基金青年项目，《基于深度确定性策略梯度算法的5G多无人机蜂窝异构网路径规划关键技术研究》，主持，2022",
+      "3. 浙江工商大学“数字+”学科建设管理项目，《数字化污水处理厂减污降碳协同增效智能控制关键技术研发与应用》，主持，2023",
+      "4. 浙江工商大学省属高校基本科研业务费项目（青锐项目），《智联计算网络无人机业务承载方法研究》，主持，2023",
+      "5. 国家自然科学基金青年项目，《低时延高可靠无人机边缘算力网络》，2025-2027"
+    ],
+    "awards": [
+      "2025年度浙江工商大学优秀教师",
+      "2025年“挑战杯”“互联网+”国家级金奖（2项）",
+      "“挑战杯 ”全国大学生课外学术科技作品竞赛-国家级金奖，“鉴筑史者——基于空地云多模态和损伤推演的历史建筑检测系统”（2/3）",
+      "中国国际大学生创新大赛-国家级金奖，“恒安智卫——骑行路态感知与防卫的探索者”（3/3）",
+      "2025年“挑战杯”“互联网+”省级金奖（4项）",
+      "2025年师生游泳比赛50m蛙泳第五名"
+    ],
+    "service": [
+      "2022",
+      "Technical Program Committee (TPC) member for 2022 IEEE Globecom CelUAVSatCom Technical Program Committee for 2022 IEEE Globecom CelUAVSatCom",
+      "TPC of WS04 ICC'22 Workshop - UAV5GTPC of WS04 ICC'22 Workshop - UAV5G",
+      "2023",
+      "TPC for Globecom 2023 WC (2023 IEEE Global Communications Conference: Wireless Communications)TPC for Globecom 2023 WC (2023 IEEE Global Communications Conference: Wireless Communications)",
+      "TPC for WS14 ICC'23 Workshop - UAV5GByndTPC member for WS14 ICC'23 Workshop - UAV5GBynd",
+      "2024-2026",
+      "1. TPC for IEEE Global Communications Conference: Selected Areas in Communications: Aerial Communications",
+      "2. TPC for ICC Workshop - UAV5G"
+    ],
+    "papers": [
+      {
+        "title": "UAV-Assisted Computing Power Network Task Allocation and 3D Urban Trajectory Optimization",
+        "authors": "Bo Ma, Yexin Pan, Yong Xu, Ziyi Gao, Zitian Zhang, Chao Chen, Chuanhuang Li*",
+        "journal": "IEEE Internet of Things Journal",
+        "year": "2025",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "Bo Ma, Yexin Pan, Yong Xu, Ziyi Gao, Zitian Zhang, Chao Chen, Chuanhuang Li*. UAV-Assisted Computing Power Network Task Allocation and 3D Urban Trajectory Optimization. IEEE Internet of Things Journal, 2025. (SCI一区Top, IF=10.6)"
+      },
+      {
+        "title": "UAV-Enabled Relaying and Edge Computing: Hybrid Network Optimization",
+        "authors": "Bo Ma, Jiawei Ye, Shaohan Feng, Chuanhuang Li*, Dusit Niyato, Dong In Kim",
+        "journal": "IEEE Transactions on Vehicular Technology",
+        "year": "2025",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "Bo Ma, Jiawei Ye, Shaohan Feng, Chuanhuang Li*, Dusit Niyato, Dong In Kim. UAV-Enabled Relaying and Edge Computing: Hybrid Network Optimization. IEEE Transactions on Vehicular Technology, vol. 74, no. 7, pp. 11644-11649, July 2025. (CCF B)"
+      },
+      {
+        "title": "Optimizing Profit and Delay in Computing Power Network via Deep Deterministic Policy Gradient: A Task Decomposition and Computing Path Optimization Approach",
+        "authors": "Bo Ma, Xiaosen Hu, Yexin Pan, Qin Lu, Chuanhuang Li*",
+        "journal": "IEEE Transactions on Services Computing",
+        "year": "2025",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "Bo Ma, Xiaosen Hu, Yexin Pan, Qin Lu, Chuanhuang Li*. Optimizing Profit and Delay in Computing Power Network via Deep Deterministic Policy Gradient: A Task Decomposition and Computing Path Optimization Approach. IEEE Transactions on Services Computing, vol. 18, no. 4, pp. 2295-2309, July-Aug. 2025. (CCF A)"
+      },
+      {
+        "title": "ILLUMINE: Illumination UAVs Deployment Optimization Based on Consumer Drone",
+        "authors": "Bo Ma, Yexin Pan, Yong Xu, Zitian Zhang, Chao Chen, Chuanhuang Li",
+        "journal": "Ad Hoc Networks",
+        "year": "2024",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "Bo Ma, Yexin Pan, Yong Xu, Zitian Zhang, Chao Chen, Chuanhuang Li. ILLUMINE: Illumination UAVs Deployment Optimization Based on Consumer Drone. Ad Hoc Networks, 2024, 103587. (CCF-C, IF=4.4)"
+      },
+      {
+        "title": "云边端异构算力网络计算任务分割与路径优化方法研究",
+        "authors": "马博, 余应洁, 吴莎尘, 倪畅, 陆琴, 陈超, 李传煌",
+        "journal": "电子学报",
+        "year": "2025",
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "马博, 余应洁, 吴莎尘, 倪畅, 陆琴, 陈超, 李传煌*. 云边端异构算力网络计算任务分割与路径优化方法研究. 电子学报, 2025, 53(06): 1847-1864. (CCF-T1，中国科技期刊卓越行动计划“中文领军期刊”)"
+      },
+      {
+        "title": "Time-Efficient Joint UAV-BS Deployment and User Association Based on Machine Learning",
+        "authors": "Bo Ma, J. Zhang, Z. Zhang, J. Zhang",
+        "journal": "IEEE Internet of Things Journal",
+        "year": "2023",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "Bo Ma, J. Zhang, Z. Zhang, J. Zhang. Time-Efficient Joint UAV-BS Deployment and User Association Based on Machine Learning. IEEE Internet of Things Journal, vol. 10, no. 14, pp. 13077-13094, July 2023. (SCI一区Top, IF=10.6)"
+      },
+      {
+        "title": "UAV Assisted Cellular Network Traffic Offloading: Joint Swarm, 3D Deployment, and User Allocation Optimization Based on a Data-Aware Method",
+        "authors": "Bo Ma, H. Kuang, S. Liu, C. Li",
+        "journal": "Computer Networks",
+        "year": "2023",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "Bo Ma, H. Kuang, S. Liu, C. Li. UAV Assisted Cellular Network Traffic Offloading: Joint Swarm, 3D Deployment, and User Allocation Optimization Based on a Data-Aware Method. Computer Networks, vol. 231, p. 109812, 2023. (CCF-B, IF=5.6)"
+      },
+      {
+        "title": "ARGCN: An Intelligent Prediction Model for SDN Network Performance",
+        "authors": "Bo Ma, Q. Lu, X. Fang, J. Liao, H. Liu, Z. Chen, C. Li",
+        "journal": "Peer-to-Peer Networking and Applications",
+        "year": "2024",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "Bo Ma, Q. Lu, X. Fang, J. Liao, H. Liu, Z. Chen, C. Li. ARGCN: An Intelligent Prediction Model for SDN Network Performance. Peer-to-Peer Networking and Applications, 2024. (CCF-C, IF=4.2)"
+      },
+      {
+        "title": "多模态网络分布式控制平面负载均衡研究",
+        "authors": "凃化清、刘硕、方徐鑫、马博、邹涛、李传煌",
+        "journal": "电子学报",
+        "year": "2026",
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "凃化清、刘硕、方徐鑫、马博、邹涛、李传煌*. 多模态网络分布式控制平面负载均衡研究. 电子学报, 2026. (CCF-T1，中国科技期刊卓越行动计划“中文领军期刊”)"
+      },
+      {
+        "title": "A Survey of Online Data-Driven Proactive 5G Network Optimisation Using Machine Learning",
+        "authors": "Bo Ma, W. Guo, J. Zhang",
+        "journal": "IEEE Access",
+        "year": "2020",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "Bo Ma, W. Guo, J. Zhang. A Survey of Online Data-Driven Proactive 5G Network Optimisation Using Machine Learning. IEEE Access, vol. 8, pp. 35606-35637, 2020. (他引80次, IF=3.9)"
+      },
+      {
+        "title": "Context-Aware Proactive 5G Load Balancing and Optimization for Urban Areas",
+        "authors": "Bo Ma, B. Yang, Y. Zhu, J. Zhang",
+        "journal": "IEEE Access",
+        "year": "2020",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "Bo Ma, B. Yang, Y. Zhu, J. Zhang. Context-Aware Proactive 5G Load Balancing and Optimization for Urban Areas. IEEE Access, vol. 8, pp. 8405-8417, 2020. (他引34次, IF=3.9)"
+      },
+      {
+        "title": "Orbit Angular Momentum MIMO with Mode Selection for UAV-Assisted A2G Networks",
+        "authors": "T. Hu, Y. Wang, B. Ma, J. Zhang",
+        "journal": "Sensors",
+        "year": "2020",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "T. Hu, Y. Wang, B. Ma, J. Zhang. Orbit Angular Momentum MIMO with Mode Selection for UAV-Assisted A2G Networks. Sensors, 2020, 20, 2289. (IF=3.8)"
+      },
+      {
+        "title": "Intelligent Deep Reinforcement Learning-Based Scheduling in Relay-Based HetNets",
+        "authors": "C. Chen, Z. Wu, X. Yu, B. Ma, C. Li",
+        "journal": "EURASIP J. Wirel. Commun. Netw.",
+        "year": "2023",
+        "citations": null,
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "C. Chen, Z. Wu, X. Yu, B. Ma, C. Li. Intelligent Deep Reinforcement Learning-Based Scheduling in Relay-Based HetNets. EURASIP J. Wirel. Commun. Netw., vol. 2023, no. 1, p. 116, 2023. (IF=3.8)"
+      },
+      {
+        "title": "TRGE: A Backdoor Detection After Quantization",
+        "authors": "R. Xie, X. Fang, B. Ma, C. Li, X. Yuan",
+        "journal": "Information Security and Cryptology · Inscrypt 2023",
+        "year": "2023",
+        "url": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm",
+        "source": "school",
+        "raw": "R. Xie, X. Fang, B. Ma, C. Li, X. Yuan. TRGE: A Backdoor Detection After Quantization. In: Ge, C., Yung, M. (eds) Information Security and Cryptology. Inscrypt 2023. Lecture Notes in Computer Science, vol 14527. Springer, Singapore. (会议)"
+      }
+    ],
+    "sourceUrl": "https://mypage.zjgsu.edu.cn/iee/mb2/main.htm"
+  },
+  "scholar": {
+    "name": "Bo Ma (马博）",
+    "papers": [
+      {
+        "title": "A Survey of Online Data-Driven Proactive 5G Network Optimisation Using Machine Learning",
+        "authors": "B Ma, W Guo, J Zhang",
+        "journal": "IEEE Access 8, 35606-35637, 2020",
+        "year": "2020",
+        "citations": 132,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:d1gkVwhDpl0C",
+        "source": "scholar"
+      },
+      {
+        "title": "Context-aware proactive 5G load balancing and optimization for urban areas",
+        "authors": "B Ma, B Yang, Y Zhu, J Zhang",
+        "journal": "IEEE Access 8, 8405-8417, 2020",
+        "year": "2020",
+        "citations": 48,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:u-x6o8ySG0sC",
+        "source": "scholar"
+      },
+      {
+        "title": "Time Efficient Joint UAV-BS Deployment and User Association based on Machine Learning",
+        "authors": "Bo Ma, Jiliang Zhang, Zitian Zhang, Jie Zhang",
+        "journal": "IEEE Internet of Things Journal, 2023",
+        "year": "2023",
+        "citations": 20,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:IjCSPb-OGe4C",
+        "source": "scholar"
+      },
+      {
+        "title": "UAV assisted cellular network traffic offloading: Joint swarm, 3D deployment, and user allocation optimization based on a data-aware method",
+        "authors": "B Ma, H Kuang, S Liu, C Li",
+        "journal": "Computer Networks 231, 109812, 2023",
+        "year": "2023",
+        "citations": 15,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:Tyk-4Ss8FVUC",
+        "source": "scholar"
+      },
+      {
+        "title": "A multi-user mobile edge computing task offloading and trajectory management based on proximal policy optimization",
+        "authors": "B Ma, Y Xu, Y Pan, S Liu, C Li",
+        "journal": "Peer-to-Peer Networking and Applications 17 (6), 4210-4229, 2024",
+        "year": "2024",
+        "citations": 12,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:_FxGoFyzp5QC",
+        "source": "scholar"
+      },
+      {
+        "title": "An Efficient Ray Tracing Framework for Urban Scenarios Powered by Heterogeneous Graph Neural Networks",
+        "authors": "S Liu, Y Feng, S Yang, B Ma, C Li",
+        "journal": "IEEE Antennas and Wireless Propagation Letters, 2025",
+        "year": "2025",
+        "citations": 11,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:5nxA0vEk-isC",
+        "source": "scholar"
+      },
+      {
+        "title": "UAV-Assisted Computing Power Network Task Allocation and 3D Urban Trajectory Optimization",
+        "authors": "B Ma, Y Pan, Y Xu, Z Gao, Z Zhang, C Chen, C Li",
+        "journal": "IEEE Internet of Things Journal, 2025",
+        "year": "2025",
+        "citations": 10,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:Se3iqnhoufwC",
+        "source": "scholar"
+      },
+      {
+        "title": "Optimizing profit and delay in computing power network via deep deterministic policy gradient: A task decomposition and computing path optimization approach",
+        "authors": "B Ma, X Hu, Y Pan, Q Lu, C Li",
+        "journal": "IEEE Transactions on Services Computing 18 (4), 2295-2309, 2025",
+        "year": "2025",
+        "citations": 8,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:0EnyYjriUFMC",
+        "source": "scholar"
+      },
+      {
+        "title": "Orbit angular momentum MIMO with mode selection for UAV-assisted A2G networks",
+        "authors": "T Hu, Y Wang, B Ma, J Zhang",
+        "journal": "Sensors 20 (8), 2289, 2020",
+        "year": "2020",
+        "citations": 8,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:9yKSN-GCB0IC",
+        "source": "scholar"
+      },
+      {
+        "title": "Incentive Mechanism Design for Resource Management in Satellite Networks: A Comprehensive Survey",
+        "authors": "NC Luong, Z Sui, DV Le, J Cao, B Ma, ND Hai, R Zhang, VV Quang, ...",
+        "journal": "IEEE Internet of Things Journal, 2025",
+        "year": "2025",
+        "citations": 6,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:Zph67rFs4hoC",
+        "source": "scholar"
+      },
+      {
+        "title": "UAV-enabled relaying and edge computing: Hybrid network optimization",
+        "authors": "B Ma, J Ye, S Feng, C Li, D Niyato, DI Kim",
+        "journal": "IEEE Transactions on Vehicular Technology 74 (7), 11644-11649, 2025",
+        "year": "2025",
+        "citations": 6,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:UebtZRa9Y70C",
+        "source": "scholar"
+      },
+      {
+        "title": "Modelling mobile traffic patterns using a generative adversarial neural networks",
+        "authors": "B Ma, B Yang, Z Zhang, J Zhang",
+        "journal": "NOMS 2020-2020 IEEE/IFIP Network Operations and Management Symposium, 1-7, 2020",
+        "year": "2020",
+        "citations": 6,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:2osOgNQ5qMEC",
+        "source": "scholar"
+      },
+      {
+        "title": "GEEK-Explainer: An Efficient Interpretation Method for Graph Neural Networks in SDN",
+        "authors": "S Liu, C Li, C Chen, B Ma, Z Chen, X Wang, Y Zhang",
+        "journal": "IEEE Transactions on Cognitive Communications and Networking, 2025",
+        "year": "2025",
+        "citations": 5,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:8k81kl-MbHgC",
+        "source": "scholar"
+      },
+      {
+        "title": "ARGCN: An intelligent prediction model for SDN network performance",
+        "authors": "B Ma, Q Lu, X Fang, J Liao, H Liu, Z Chen, C Li",
+        "journal": "Peer-to-Peer Networking and Applications 17 (3), 1422-1441, 2024",
+        "year": "2024",
+        "citations": 5,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:eQOLeE2rZwMC",
+        "source": "scholar"
+      },
+      {
+        "title": "Noma-enabled joint trajectory and resource allocation optimisation in 6g low-altitude networks: A ppo-based approach",
+        "authors": "Z Wang, J Zhao, H Cao, B Ma, J Zhang, B Hu",
+        "journal": "2025 IEEE/CIC International Conference on Communications in China (ICCC …, 2025",
+        "year": "2025",
+        "citations": 4,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:KlAtU1dfN6UC",
+        "source": "scholar"
+      },
+      {
+        "title": "ILLUMINE: Illumination UAVs deployment optimization based on consumer drone",
+        "authors": "B Ma, Y Pan, Y Xu, Z Zhang, C Chen, C Li",
+        "journal": "Ad Hoc Networks 163, 103587, 2024",
+        "year": "2024",
+        "citations": 4,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:ufrVoPGSRksC",
+        "source": "scholar"
+      },
+      {
+        "title": "Chat with UAV–human-UAV interaction based on large language models",
+        "authors": "H Wang, Z Chen, G Li, B Ma, C Li",
+        "journal": "Autonomous Agents and Multi-Agent Systems 40 (1), 25, 2026",
+        "year": "2026",
+        "citations": 2,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:ULOm3_A8WrAC",
+        "source": "scholar"
+      },
+      {
+        "title": "Minimum-delay beam scheduling leveraging reflections for switched beamforming systems",
+        "authors": "C Chen, H Xu, R Yin, X Yu, B Ma, C Li",
+        "journal": "2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), 1-5, 2024",
+        "year": "2024",
+        "citations": 2,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:LkGwnXOMwfcC",
+        "source": "scholar"
+      },
+      {
+        "title": "Distance-Based Multicast Scheduling for mmWave Networks Leveraging Reflections",
+        "authors": "C Chen, Y Xue, Y Li, SJ Baek, X Yu, B Ma, C Li",
+        "journal": "IEEE Wireless Communications Letters, 2025",
+        "year": "2025",
+        "citations": 1,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:kNdYIx-mwKoC",
+        "source": "scholar"
+      },
+      {
+        "title": "Intelligent deep reinforcement learning-based scheduling in relay-based HetNets",
+        "authors": "C Chen, Z Wu, X Yu, B Ma, C Li",
+        "journal": "EURASIP Journal on Wireless Communications and Networking 2023 (1), 116, 2023",
+        "year": "2023",
+        "citations": 1,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:W7OEmFMy1HYC",
+        "source": "scholar"
+      },
+      {
+        "title": "Context-Aware Proactive Optimisation in Cellular Networks",
+        "authors": "B Ma",
+        "journal": "PhD thesis, University of Sheffield, 2021",
+        "year": "2021",
+        "citations": 1,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:zYLM7Y9cAGgC",
+        "source": "scholar"
+      },
+      {
+        "title": "Artificial Intelligence for Spatially Reconfigurable Antennas: Movable, Fluid, and Pinching Antenna Systems",
+        "authors": "NC Luong, Z Sui, TH Vu, J Cao, B Ma, T Van Le, X Zhan, ND Hai, M Xu, ...",
+        "journal": "arXiv preprint arXiv:2608.00255, 2026",
+        "year": "2026",
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:9ZlFYXVOiuMC",
+        "source": "scholar"
+      },
+      {
+        "title": "Uncertainty-Driven Cellular Traffic Prediction: A Self-Tuning Deep Bayesian GMM Approach",
+        "authors": "B Ma, J Ma, S Feng, C Li, P Wang, E Hossain",
+        "journal": "IEEE Transactions on Vehicular Technology, 2026",
+        "year": "2026",
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:Wp0gIr-vW9MC",
+        "source": "scholar"
+      },
+      {
+        "title": "Characterization and Prediction of Cell-level Mobile Network Traffic: A Reinforced Meta-learning-Based Framework",
+        "authors": "B Ma, J Ye, S Feng, Z Zhang, C Li, P Wang, E Hossain",
+        "journal": "IEEE Transactions on Mobile Computing, 2026",
+        "year": "2026",
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:4DMP91E08xMC",
+        "source": "scholar"
+      },
+      {
+        "title": "Transformer-Enhanced Reinforcement Learning: Fundamentals and Applications in Communication Networks",
+        "authors": "NC Luong, S Feng, ND Hai, Z Sui, B Ma, M Xu, Z Dong, Q Zhao, NDD Anh, ...",
+        "journal": "IEEE Communications Surveys & Tutorials, 2026",
+        "year": "2026",
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:aqlVkmm33-oC",
+        "source": "scholar"
+      },
+      {
+        "title": "From Denoising to Decision Making: A Survey on Diffusion Model-Enabled Deep Reinforcement Learning for Wireless Networks",
+        "authors": "NC Luong, Z Sui, J Cao, M Xu, ND Hai, Z Dong, NDD Anh, Q Zhao, ...",
+        "journal": "arXiv preprint arXiv:2605.25531, 2026",
+        "year": "2026",
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:qxL8FJ1GzNcC",
+        "source": "scholar"
+      },
+      {
+        "title": "Integrated UAV-enabled disaster recovery: Convex optimization for power, bandwidth, and trajectory in multi-role aerial networks",
+        "authors": "B Ma, Y Feng, Y Huang, Z Shen, H Kuang, C Li",
+        "journal": "Ad Hoc Networks, 104181, 2026",
+        "year": "2026",
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:4TOpqqG69KYC",
+        "source": "scholar"
+      },
+      {
+        "title": "FusionSHAP: Window Level Shapley Explanations with Semantic and Physical Fusion for STGNNs",
+        "authors": "S Liu, G Li, C Xu, B Ma, C Li, Y Zhang",
+        "journal": "Australasian Database Conference, 380-391, 2025",
+        "year": "2025",
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:_kc_bZDykSQC",
+        "source": "scholar"
+      },
+      {
+        "title": "Task Segmentation and Path Optimization in Heterogeneous Cloud-Edge-End Computing Power Network（云边端异构算力网络计算任务分割与路径优化方法研究）",
+        "authors": "MA Bo , YU Ying-jie , WU Sha-chen , NI Chang , LU Qin, CHEN Chao, LI Chuan-huang",
+        "journal": "ACTA ELECTRONICA SINICA（电子学报）, 2025",
+        "year": "2025",
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:MXK_kJrjxJIC",
+        "source": "scholar"
+      },
+      {
+        "title": "TRGE: A Backdoor Detection After Quantization",
+        "authors": "R Xie, X Fang, B Ma, C Li, X Yuan",
+        "journal": "International Conference on Information Security and Cryptology, 394-398, 2023",
+        "year": "2023",
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:WF5omc3nYNoC",
+        "source": "scholar"
+      },
+      {
+        "title": "Hybrid Compression Model Based on Redundancy Quantization and Geometric Median Weight Evaluation in Ddos Attack Detection",
+        "authors": "C Li, S Wu, J Lou, X Fang, Y Pan, B Ma",
+        "journal": "Available at SSRN 4892698, 0",
+        "year": "",
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:3fE2CSJIrl8C",
+        "source": "scholar"
+      }
+    ],
+    "metrics": {
+      "citations": 307,
+      "hIndex": 8,
+      "i10Index": 7
+    },
+    "hasMore": false,
+    "sourceUrl": "https://scholar.google.com/citations?user=Of3da04AAAAJ&hl=zh-CN"
+  },
+  "crossref": {
+    "papers": [
+      {
+        "title": "Distance-Based Multicast Scheduling for mmWave Networks Leveraging Reflections",
+        "authors": "Chao Chen, Yayin Xue, Yue Li, Seung Jun Baek, Xiaohan Yu, Bo Ma, Chuanhuang Li",
+        "journal": "IEEE Wireless Communications Letters",
+        "year": "2025",
+        "doi": "10.1109/lwc.2025.3612706",
+        "citations": null,
+        "url": "https://doi.org/10.1109/lwc.2025.3612706",
+        "source": "crossref"
+      },
+      {
+        "title": "Context-Aware Proactive 5G Load Balancing and Optimization for Urban Areas",
+        "authors": "Bo Ma, Bowei Yang, Yunpeng Zhu, Jie Zhang",
+        "journal": "IEEE Access",
+        "year": "2020",
+        "doi": "10.1109/access.2020.2964562",
+        "citations": null,
+        "url": "https://doi.org/10.1109/access.2020.2964562",
+        "source": "crossref"
+      },
+      {
+        "title": "Incentive Mechanism Design for Resource Management in Satellite Networks: A Comprehensive Survey",
+        "authors": "Nguyen Cong Luong, Zeping Sui, Duc Van Le, Jie Cao, Bo Ma, Nguyen Duc Hai, Ruichen Zhang, Vu Van Quang, Dusit Niyato, Shaohan Feng",
+        "journal": "IEEE Internet of Things Journal",
+        "year": "2026",
+        "doi": "10.1109/jiot.2025.3637167",
+        "citations": null,
+        "url": "https://doi.org/10.1109/jiot.2025.3637167",
+        "source": "crossref"
+      },
+      {
+        "title": "Transformer-Enhanced Reinforcement Learning: Fundamentals and Applications in Communication Networks",
+        "authors": "Nguyen Cong Luong, Shaohan Feng, Nguyen Duc Hai, Zeping Sui, Bo Ma, Min Xu, Zhihao Dong, Qiushi Zhao, Nguyen Duc Duy Anh, Nguyen Quoc Khanh, Ngoc Hung Nguyen, Zitian Zhang, Jie Cao",
+        "journal": "IEEE Communications Surveys &amp; Tutorials",
+        "year": "2026",
+        "doi": "10.1109/comst.2026.3725159",
+        "citations": null,
+        "url": "https://doi.org/10.1109/comst.2026.3725159",
+        "source": "crossref"
+      },
+      {
+        "title": "A Survey of Online Data-Driven Proactive 5G Network Optimisation Using Machine Learning",
+        "authors": "Bo Ma, Weisi Guo, Jie Zhang",
+        "journal": "IEEE Access",
+        "year": "2020",
+        "doi": "10.1109/access.2020.2975004",
+        "citations": null,
+        "url": "https://doi.org/10.1109/access.2020.2975004",
+        "source": "crossref"
+      },
+      {
+        "title": "Time-Efficient Joint UAV-BS Deployment and User Association Based on Machine Learning",
+        "authors": "Bo Ma, Jiliang Zhang, Zitian Zhang, Jie Zhang",
+        "journal": "IEEE Internet of Things Journal",
+        "year": "2023",
+        "doi": "10.1109/jiot.2023.3263208",
+        "citations": null,
+        "url": "https://doi.org/10.1109/jiot.2023.3263208",
+        "source": "crossref"
+      },
+      {
+        "title": "GEEK-Explainer: An Efficient Interpretation Method for Graph Neural Networks in SDN",
+        "authors": "Shiyuan Liu, Chuanhuang Li, Chao Chen, Bo Ma, Zebin Chen, Xiaoyang Wang, Ying Zhang",
+        "journal": "IEEE Transactions on Cognitive Communications and Networking",
+        "year": "2026",
+        "doi": "10.1109/tccn.2025.3586942",
+        "citations": null,
+        "url": "https://doi.org/10.1109/tccn.2025.3586942",
+        "source": "crossref"
+      },
+      {
+        "title": "Optimizing Profit and Delay in Computing Power Network via Deep Deterministic Policy Gradient: A Task Decomposition and Computing Path Optimization Approach",
+        "authors": "Bo Ma, Xiaosen Hu, Yexin Pan, Qin Lu, Chuanhuang Li",
+        "journal": "IEEE Transactions on Services Computing",
+        "year": "2025",
+        "doi": "10.1109/tsc.2025.3570862",
+        "citations": null,
+        "url": "https://doi.org/10.1109/tsc.2025.3570862",
+        "source": "crossref"
+      },
+      {
+        "title": "Characterization and Prediction of Cell-Level Mobile Network Traffic: A Reinforced Meta-Learning-Based Framework",
+        "authors": "Bo Ma, Jiawei Ye, Shaohan Feng, Zitian Zhang, Chuanhuang Li, Ping Wang, Ekram Hossain",
+        "journal": "IEEE Transactions on Mobile Computing",
+        "year": "2026",
+        "doi": "10.1109/tmc.2026.3708512",
+        "citations": null,
+        "url": "https://doi.org/10.1109/tmc.2026.3708512",
+        "source": "crossref"
+      },
+      {
+        "title": "UAV-Enabled Relaying and Edge Computing: Hybrid Network Optimization",
+        "authors": "Bo Ma, Jiawei Ye, Shaohan Feng, Chuanhuang Li, Dusit Niyato, Dong In Kim",
+        "journal": "IEEE Transactions on Vehicular Technology",
+        "year": "2025",
+        "doi": "10.1109/tvt.2025.3549366",
+        "citations": null,
+        "url": "https://doi.org/10.1109/tvt.2025.3549366",
+        "source": "crossref"
+      },
+      {
+        "title": "AAV-Assisted Computing Power Network Task Allocation and 3-D Urban Trajectory Optimization",
+        "authors": "Bo Ma, Yexin Pan, Yong Xu, Ziyi Gao, Zitian Zhang, Chao Chen, Chuanhuang Li",
+        "journal": "IEEE Internet of Things Journal",
+        "year": "2025",
+        "doi": "10.1109/jiot.2025.3540547",
+        "citations": null,
+        "url": "https://doi.org/10.1109/jiot.2025.3540547",
+        "source": "crossref"
+      },
+      {
+        "title": "An Efficient Ray-Tracing Framework for Urban Scenarios Powered by Heterogeneous Graph Neural Networks",
+        "authors": "Shiyuan Liu, Yujie Feng, Songjiang Yang, Bo Ma, Chuanhuang Li",
+        "journal": "IEEE Antennas and Wireless Propagation Letters",
+        "year": "2025",
+        "doi": "10.1109/lawp.2025.3576376",
+        "citations": null,
+        "url": "https://doi.org/10.1109/lawp.2025.3576376",
+        "source": "crossref"
+      }
+    ],
+    "totalResults": 12,
+    "sourceUrl": "https://orcid.org/0000-0001-9522-5920"
+  },
+  "news": {
+    "articles": [
+      {
+        "title": "敢闯会创！浙小商在中国国际大学生创新大赛中再创佳绩_浙江工商大学新闻网",
+        "url": "https://news.zjgsu.edu.cn/3/view_23353.html",
+        "date": "2025-10-17",
+        "excerpt": "成员：黄昱凡、陈亮瑜、石魏宁、戴依婷、周昕妍、尹一涵、张毓琪、蒋欣纯、曹宇轩、张可欣、柴闻祺、陈容简、张山杉、陈翔、吴明凤 指导老师：李传煌、刘险得、马博 银奖团队项目 参赛项目：粒肝见影——开启藤茶综合化利用新纪元的“纳米之钥” 推荐学院：食品与生物工程学院 团队成员：徐嘉骋、胡瑞琪、徐鸿真、金亦心、叶思雅、于子耘、毛嘉军、江伊婷、高俊豪、泮昊桢、高羽婕、刘蕾、虞冰尹 指导老师：任格瑞、谢湖均、黄敏 参赛项目：Reverse AGE——抗糖时代·全链路抗AGE解决方案提供商 推荐学院：食品与生物工程学院",
+        "source": "news.zjgsu.edu.cn"
+      }
+    ]
+  },
+  "sourceStatus": {
+    "school": {
+      "updatedAt": "2026-10-01T09:19:08.926Z",
+      "checkedAt": "2026-10-01T09:19:08.926Z",
+      "error": null
+    },
+    "scholar": {
+      "updatedAt": "2026-10-01T09:19:08.926Z",
+      "checkedAt": "2026-10-01T09:19:08.926Z",
+      "error": null
+    },
+    "crossref": {
+      "updatedAt": "2026-10-01T09:19:08.926Z",
+      "checkedAt": "2026-10-01T09:19:08.926Z",
+      "error": null
+    },
+    "news": {
+      "updatedAt": "2026-10-01T09:19:08.926Z",
+      "checkedAt": "2026-10-01T09:19:08.926Z",
+      "error": null
+    }
+  },
+  "storageAvailable": true,
+  "initialSnapshot": false,
+  "total": 33
+}
