@@ -192,7 +192,7 @@
         "authors": "B Ma, W Guo, J Zhang",
         "journal": "IEEE Access 8, 35606-35637, 2020",
         "year": "2020",
-        "citations": 132,
+        "citations": 133,
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:d1gkVwhDpl0C",
         "source": "scholar"
       },
@@ -228,7 +228,7 @@
         "authors": "B Ma, Y Xu, Y Pan, S Liu, C Li",
         "journal": "Peer-to-Peer Networking and Applications 17 (6), 4210-4229, 2024",
         "year": "2024",
-        "citations": 12,
+        "citations": 14,
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:_FxGoFyzp5QC",
         "source": "scholar"
       },
@@ -255,7 +255,7 @@
         "authors": "B Ma, X Hu, Y Pan, Q Lu, C Li",
         "journal": "IEEE Transactions on Services Computing 18 (4), 2295-2309, 2025",
         "year": "2025",
-        "citations": 8,
+        "citations": 9,
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:0EnyYjriUFMC",
         "source": "scholar"
       },
@@ -296,6 +296,15 @@
         "source": "scholar"
       },
       {
+        "title": "Noma-enabled joint trajectory and resource allocation optimisation in 6g low-altitude networks: A ppo-based approach",
+        "authors": "Z Wang, J Zhao, H Cao, B Ma, J Zhang, B Hu",
+        "journal": "2025 IEEE/CIC International Conference on Communications in China (ICCC …, 2025",
+        "year": "2025",
+        "citations": 5,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:KlAtU1dfN6UC",
+        "source": "scholar"
+      },
+      {
         "title": "GEEK-Explainer: An Efficient Interpretation Method for Graph Neural Networks in SDN",
         "authors": "S Liu, C Li, C Chen, B Ma, Z Chen, X Wang, Y Zhang",
         "journal": "IEEE Transactions on Cognitive Communications and Networking, 2025",
@@ -311,15 +320,6 @@
         "year": "2024",
         "citations": 5,
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:eQOLeE2rZwMC",
-        "source": "scholar"
-      },
-      {
-        "title": "Noma-enabled joint trajectory and resource allocation optimisation in 6g low-altitude networks: A ppo-based approach",
-        "authors": "Z Wang, J Zhao, H Cao, B Ma, J Zhang, B Hu",
-        "journal": "2025 IEEE/CIC International Conference on Communications in China (ICCC …, 2025",
-        "year": "2025",
-        "citations": 4,
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:KlAtU1dfN6UC",
         "source": "scholar"
       },
       {
@@ -347,6 +347,15 @@
         "year": "2024",
         "citations": 2,
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:LkGwnXOMwfcC",
+        "source": "scholar"
+      },
+      {
+        "title": "Transformer-Enhanced Reinforcement Learning: Fundamentals and Applications in Communication Networks",
+        "authors": "NC Luong, S Feng, ND Hai, Z Sui, B Ma, M Xu, Z Dong, Q Zhao, NDD Anh, ...",
+        "journal": "IEEE Communications Surveys & Tutorials, 2026",
+        "year": "2026",
+        "citations": 1,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:aqlVkmm33-oC",
         "source": "scholar"
       },
       {
@@ -378,11 +387,11 @@
       },
       {
         "title": "Artificial Intelligence for Spatially Reconfigurable Antennas: Movable, Fluid, and Pinching Antenna Systems",
-        "authors": "NC Luong, Z Sui, TH Vu, J Cao, B Ma, T Van Le, X Zhan, ND Hai, M Xu, ...",
-        "journal": "arXiv preprint arXiv:2608.00255, 2026",
+        "authors": "N Cong Luong, Z Sui, TH Vu, J Cao, B Ma, T Van Le, X Zhan, ND Hai, ...",
+        "journal": "arXiv e-prints, arXiv: 2608.00255, 2026",
         "year": "2026",
         "citations": 0,
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:9ZlFYXVOiuMC",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:QIV2ME_5wuYC",
         "source": "scholar"
       },
       {
@@ -401,15 +410,6 @@
         "year": "2026",
         "citations": 0,
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:4DMP91E08xMC",
-        "source": "scholar"
-      },
-      {
-        "title": "Transformer-Enhanced Reinforcement Learning: Fundamentals and Applications in Communication Networks",
-        "authors": "NC Luong, S Feng, ND Hai, Z Sui, B Ma, M Xu, Z Dong, Q Zhao, NDD Anh, ...",
-        "journal": "IEEE Communications Surveys & Tutorials, 2026",
-        "year": "2026",
-        "citations": 0,
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Of3da04AAAAJ&pagesize=100&citation_for_view=Of3da04AAAAJ:aqlVkmm33-oC",
         "source": "scholar"
       },
       {
@@ -468,7 +468,7 @@
       }
     ],
     "metrics": {
-      "citations": 307,
+      "citations": 313,
       "hIndex": 8,
       "i10Index": 7
     },
@@ -614,24 +614,24 @@
   },
   "sourceStatus": {
     "school": {
-      "updatedAt": "2026-10-05T06:37:54.627Z",
-      "checkedAt": "2026-10-05T06:37:54.627Z",
+      "updatedAt": "2026-10-12T07:02:55.499Z",
+      "checkedAt": "2026-10-12T07:02:55.499Z",
       "error": null
     },
     "scholar": {
-      "updatedAt": "2026-10-01T09:19:08.926Z",
-      "checkedAt": "2026-10-05T06:37:54.627Z",
-      "error": "来源暂不可用 (403)"
+      "updatedAt": "2026-10-12T07:02:55.499Z",
+      "checkedAt": "2026-10-12T07:02:55.499Z",
+      "error": null
     },
     "crossref": {
-      "updatedAt": "2026-10-05T06:37:54.627Z",
-      "checkedAt": "2026-10-05T06:37:54.627Z",
+      "updatedAt": "2026-10-12T07:02:55.499Z",
+      "checkedAt": "2026-10-12T07:02:55.499Z",
       "error": null
     },
     "news": {
       "updatedAt": "2026-10-05T06:37:54.627Z",
-      "checkedAt": "2026-10-05T06:37:54.627Z",
-      "error": null
+      "checkedAt": "2026-10-12T07:02:55.499Z",
+      "error": "No candidate news articles readable"
     }
   },
   "storageAvailable": true,
