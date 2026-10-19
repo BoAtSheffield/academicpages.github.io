@@ -614,24 +614,24 @@
   },
   "sourceStatus": {
     "school": {
-      "updatedAt": "2026-10-12T07:02:55.499Z",
-      "checkedAt": "2026-10-12T07:02:55.499Z",
+      "updatedAt": "2026-10-19T05:51:24.208Z",
+      "checkedAt": "2026-10-19T05:51:24.208Z",
       "error": null
     },
     "scholar": {
       "updatedAt": "2026-10-12T07:02:55.499Z",
-      "checkedAt": "2026-10-12T07:02:55.499Z",
-      "error": null
+      "checkedAt": "2026-10-19T05:51:24.208Z",
+      "error": "来源暂不可用 (403)"
     },
     "crossref": {
-      "updatedAt": "2026-10-12T07:02:55.499Z",
-      "checkedAt": "2026-10-12T07:02:55.499Z",
+      "updatedAt": "2026-10-19T05:51:24.208Z",
+      "checkedAt": "2026-10-19T05:51:24.208Z",
       "error": null
     },
     "news": {
-      "updatedAt": "2026-10-05T06:37:54.627Z",
-      "checkedAt": "2026-10-12T07:02:55.499Z",
-      "error": "No candidate news articles readable"
+      "updatedAt": "2026-10-19T05:51:24.208Z",
+      "checkedAt": "2026-10-19T05:51:24.208Z",
+      "error": null
     }
   },
   "storageAvailable": true,
