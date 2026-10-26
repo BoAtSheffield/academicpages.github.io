@@ -488,6 +488,16 @@
         "source": "crossref"
       },
       {
+        "title": "Uncertainty-Driven Cellular Traffic Prediction: A Self-Tuning Deep Bayesian GMM Approach",
+        "authors": "Bo Ma, Jiaxin Ma, Shaohan Feng, Chuanhuang Li, Ping Wang, Ekram Hossain",
+        "journal": "IEEE Transactions on Vehicular Technology",
+        "year": "2026",
+        "doi": "10.1109/tvt.2026.3709121",
+        "citations": null,
+        "url": "https://doi.org/10.1109/tvt.2026.3709121",
+        "source": "crossref"
+      },
+      {
         "title": "Context-Aware Proactive 5G Load Balancing and Optimization for Urban Areas",
         "authors": "Bo Ma, Bowei Yang, Yunpeng Zhu, Jie Zhang",
         "journal": "IEEE Access",
@@ -598,7 +608,7 @@
         "source": "crossref"
       }
     ],
-    "totalResults": 12,
+    "totalResults": 13,
     "sourceUrl": "https://orcid.org/0000-0001-9522-5920"
   },
   "news": {
@@ -614,23 +624,23 @@
   },
   "sourceStatus": {
     "school": {
-      "updatedAt": "2026-10-19T05:51:24.208Z",
-      "checkedAt": "2026-10-19T05:51:24.208Z",
+      "updatedAt": "2026-10-26T05:50:40.521Z",
+      "checkedAt": "2026-10-26T05:50:40.521Z",
       "error": null
     },
     "scholar": {
       "updatedAt": "2026-10-12T07:02:55.499Z",
-      "checkedAt": "2026-10-19T05:51:24.208Z",
+      "checkedAt": "2026-10-26T05:50:40.521Z",
       "error": "来源暂不可用 (403)"
     },
     "crossref": {
-      "updatedAt": "2026-10-19T05:51:24.208Z",
-      "checkedAt": "2026-10-19T05:51:24.208Z",
+      "updatedAt": "2026-10-26T05:50:40.521Z",
+      "checkedAt": "2026-10-26T05:50:40.521Z",
       "error": null
     },
     "news": {
-      "updatedAt": "2026-10-19T05:51:24.208Z",
-      "checkedAt": "2026-10-19T05:51:24.208Z",
+      "updatedAt": "2026-10-26T05:50:40.521Z",
+      "checkedAt": "2026-10-26T05:50:40.521Z",
       "error": null
     }
   },
