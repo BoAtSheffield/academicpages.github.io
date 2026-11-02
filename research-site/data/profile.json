@@ -624,23 +624,23 @@
   },
   "sourceStatus": {
     "school": {
-      "updatedAt": "2026-10-26T05:50:40.521Z",
-      "checkedAt": "2026-10-26T05:50:40.521Z",
+      "updatedAt": "2026-11-02T07:25:42.216Z",
+      "checkedAt": "2026-11-02T07:25:42.216Z",
       "error": null
     },
     "scholar": {
       "updatedAt": "2026-10-12T07:02:55.499Z",
-      "checkedAt": "2026-10-26T05:50:40.521Z",
+      "checkedAt": "2026-11-02T07:25:42.216Z",
       "error": "来源暂不可用 (403)"
     },
     "crossref": {
-      "updatedAt": "2026-10-26T05:50:40.521Z",
-      "checkedAt": "2026-10-26T05:50:40.521Z",
+      "updatedAt": "2026-11-02T07:25:42.216Z",
+      "checkedAt": "2026-11-02T07:25:42.216Z",
       "error": null
     },
     "news": {
-      "updatedAt": "2026-10-26T05:50:40.521Z",
-      "checkedAt": "2026-10-26T05:50:40.521Z",
+      "updatedAt": "2026-11-02T07:25:42.216Z",
+      "checkedAt": "2026-11-02T07:25:42.216Z",
       "error": null
     }
   },
